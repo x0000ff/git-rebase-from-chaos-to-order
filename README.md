@@ -1,6 +1,6 @@
 # Git: Rebase. From Chaos to Order
 
-Presentation of "Git: Rebase. From Chaos to Order" for [iOS Love "Fin de Año" @ 14/12/2017](https://www.meetup.com/iOSLove/events/245466679/)
+Presentation of **"Git: Rebase. From Chaos to Order"** for [iOS Love "Fin de Año" @ 14/12/2017](https://www.meetup.com/iOSLove/events/245466679/)
 
 ![](./cover.png)
 
